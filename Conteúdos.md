@@ -198,7 +198,7 @@ Kernel:
 > O coração de vários sistemas (núcleo). Isso é o Linux. Atualizações vem para melhorias e novas funcionalidades.
 
 Grub:
-Carregador de inicialização unificado. Usando em DUALBOOT. O primeiro sistema a ser carregado.
+> Carregador de inicialização unificado. Usando em DUALBOOT. O primeiro sistema a ser carregado.
 
 Terminal:
 > Ou console um ponto físico para executar comandos. Camada que passa as instruções para o KERNEL. Shell é um interpretador de linha de comando, software.
